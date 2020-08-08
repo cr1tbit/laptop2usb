@@ -3,7 +3,7 @@
 ### The premises
  
   * In tech-oriented public spaces there's constant shortage of wallplug USB chargers
-  * The notebook's powerbricks generally outlive the notebooks themself, so with eneough effort you may get one for free
+  * The notebooks' powerbricks generally outlive the notebooks themself, so with eneough effort you may get one for free
  
 ### What is this device
 
