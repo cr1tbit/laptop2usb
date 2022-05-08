@@ -27,4 +27,6 @@ I'm yet to check a couple of things, and will do rev.2:
 
 I ordered the prototype from JLCPcb, with passive elements surface mounted. Their online tool automatically assigns the elements from BOM into the part numbers from their store. Apparently it parsed the shunt 10mOhm resistor as 10 Mega Ohms. 
 
-With 10MegaOhms in the power path, the LM25085 somehow managed to produced 4V output with enough current to shine an onboard LED. Now that's dedication.
+With 10MegaOhms in the power path, the LM25085 somehow managed to produce 4V output with enough current to shine an onboard LED. Now that's dedication.
+
+EDIT: it's been 2 years and one of my friends at work did literally the same kind of mistake when ordering PCBA from circuithub. I managed to catch that mistake quite fast, and implement a fix. I guess the lesson is, that those silly side-projects are really not in vain.
